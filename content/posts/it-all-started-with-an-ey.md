@@ -3,6 +3,9 @@ author = "Hannes Knutsson"
 title = "It All Started With an Ey"
 date = 2021-10-02T17:01:26+02:00
 tags = [
+  "token"
+  "JSON"
+  "Base64"
 ]
 draft = false
 +++

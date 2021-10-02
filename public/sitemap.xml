@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tech.hanke.se/tags/base64/</loc>
+    <lastmod>2021-10-02T17:01:26+02:00</lastmod>
+  </url><url>
     <loc>https://tech.hanke.se/posts/it-all-started-with-an-ey/</loc>
+    <lastmod>2021-10-02T17:01:26+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/tags/json/</loc>
     <lastmod>2021-10-02T17:01:26+02:00</lastmod>
   </url><url>
     <loc>https://tech.hanke.se/posts/</loc>
     <lastmod>2021-10-02T17:01:26+02:00</lastmod>
   </url><url>
+    <loc>https://tech.hanke.se/tags/</loc>
+    <lastmod>2021-10-02T17:01:26+02:00</lastmod>
+  </url><url>
     <loc>https://tech.hanke.se/</loc>
+    <lastmod>2021-10-02T17:01:26+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/tags/token/</loc>
     <lastmod>2021-10-02T17:01:26+02:00</lastmod>
   </url><url>
     <loc>https://tech.hanke.se/tags/certificate/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2021-10-02T13:01:49+02:00</lastmod>
   </url><url>
     <loc>https://tech.hanke.se/tags/letsencrypt/</loc>
-    <lastmod>2021-10-02T13:01:49+02:00</lastmod>
-  </url><url>
-    <loc>https://tech.hanke.se/tags/</loc>
     <lastmod>2021-10-02T13:01:49+02:00</lastmod>
   </url><url>
     <loc>https://tech.hanke.se/posts/hello-world/</loc>
