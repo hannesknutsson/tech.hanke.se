@@ -2,31 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tech.hanke.se/tags/css/</loc>
-    <lastmod>2021-10-02T12:35:44+02:00</lastmod>
-  </url><url>
-    <loc>https://tech.hanke.se/tags/html/</loc>
-    <lastmod>2021-10-02T12:35:44+02:00</lastmod>
-  </url><url>
-    <loc>https://tech.hanke.se/tags/markdown/</loc>
-    <lastmod>2021-10-02T12:35:44+02:00</lastmod>
-  </url><url>
-    <loc>https://tech.hanke.se/posts/</loc>
-    <lastmod>2021-10-02T12:35:44+02:00</lastmod>
-  </url><url>
-    <loc>https://tech.hanke.se/tags/</loc>
-    <lastmod>2021-10-02T12:35:44+02:00</lastmod>
-  </url><url>
-    <loc>https://tech.hanke.se/</loc>
-    <lastmod>2021-10-02T12:35:44+02:00</lastmod>
-  </url><url>
-    <loc>https://tech.hanke.se/posts/test/</loc>
-    <lastmod>2021-10-02T12:35:44+02:00</lastmod>
-  </url><url>
     <loc>https://tech.hanke.se/posts/hello-world/</loc>
     <lastmod>2021-10-02T12:07:55+02:00</lastmod>
   </url><url>
     <loc>https://tech.hanke.se/tags/non-technical/</loc>
+    <lastmod>2021-10-02T12:07:55+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/posts/</loc>
+    <lastmod>2021-10-02T12:07:55+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/tags/</loc>
+    <lastmod>2021-10-02T12:07:55+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/</loc>
     <lastmod>2021-10-02T12:07:55+02:00</lastmod>
   </url><url>
     <loc>https://tech.hanke.se/categories/</loc>
