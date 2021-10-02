@@ -6,14 +6,15 @@
     <description>Recent content in Posts on tech.hanke.se</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 23:43:54 +0200</lastBuildDate><atom:link href="https://tech.hanke.se/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Oct 2021 12:07:55 +0200</lastBuildDate><atom:link href="https://tech.hanke.se/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://tech.hanke.se/posts/hello-world/</link>
-      <pubDate>Fri, 01 Oct 2021 23:43:54 +0200</pubDate>
+      <pubDate>Sat, 02 Oct 2021 12:07:55 +0200</pubDate>
       
       <guid>https://tech.hanke.se/posts/hello-world/</guid>
-      <description>Hej test </description>
+      <description>What? I feel like starting a simple blog where I can write about projects I am working on, problems I run in to, and eventually the solutions to those problems. I will also be writing about any tips, tricks and cool tools I run in to throughout the process.
+Why? To be honest, I do not expect anyone to be reading this at all. I just want some place to write about technology that excite and sometimes annoy me.</description>
     </item>
     
   </channel>
