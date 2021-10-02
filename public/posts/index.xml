@@ -6,7 +6,18 @@
     <description>Recent content in Posts on tech.hanke.se</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Oct 2021 13:01:49 +0200</lastBuildDate><atom:link href="https://tech.hanke.se/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Oct 2021 17:01:26 +0200</lastBuildDate><atom:link href="https://tech.hanke.se/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It All Started With an Ey</title>
+      <link>https://tech.hanke.se/posts/it-all-started-with-an-ey/</link>
+      <pubDate>Sat, 02 Oct 2021 17:01:26 +0200</pubDate>
+      
+      <guid>https://tech.hanke.se/posts/it-all-started-with-an-ey/</guid>
+      <description>ey Is the start of all bearer tokens when accessing APIs and similar resources. I have not really been thinking about it much until I realized that tokens are Base64 encoded JSON objects.
+JSON objects allways start with an { to encapsulate the contents of the object, so it makes sense that all tokens start with the same.
+Just thought that was a fun fact when I thought of it, so why not put it out there.</description>
+    </item>
+    
     <item>
       <title>Issuer Hell</title>
       <link>https://tech.hanke.se/posts/issuer-hell/</link>
