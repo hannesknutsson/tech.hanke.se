@@ -1,0 +1,19 @@
+#!/bin/bash
+
+if [ -z $1 ]
+then
+	echo You must provide a name for the new post.
+	exit
+fi
+POST_NAME=$1
+
+FILE_DEST="content/posts/$POST_NAME.md"
+
+if [ -f "$FILE_DEST" ]
+then
+	echo A post named $POST_NAME already exists.
+	exit
+fi
+
+hugo new posts/$POST_NAME.md
+vim $FILE_DEST

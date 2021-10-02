@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tech.hanke.se/tags/certificate/</loc>
+    <lastmod>2021-10-02T13:01:49+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/tags/issuer/</loc>
+    <lastmod>2021-10-02T13:01:49+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/posts/issuer-hell/</loc>
+    <lastmod>2021-10-02T13:01:49+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/tags/kubernetes/</loc>
+    <lastmod>2021-10-02T13:01:49+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/tags/letsencrypt/</loc>
+    <lastmod>2021-10-02T13:01:49+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/posts/</loc>
+    <lastmod>2021-10-02T13:01:49+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/tags/</loc>
+    <lastmod>2021-10-02T13:01:49+02:00</lastmod>
+  </url><url>
+    <loc>https://tech.hanke.se/</loc>
+    <lastmod>2021-10-02T13:01:49+02:00</lastmod>
+  </url><url>
     <loc>https://tech.hanke.se/posts/hello-world/</loc>
     <lastmod>2021-10-02T12:07:55+02:00</lastmod>
   </url><url>
     <loc>https://tech.hanke.se/tags/non-technical/</loc>
-    <lastmod>2021-10-02T12:07:55+02:00</lastmod>
-  </url><url>
-    <loc>https://tech.hanke.se/posts/</loc>
-    <lastmod>2021-10-02T12:07:55+02:00</lastmod>
-  </url><url>
-    <loc>https://tech.hanke.se/tags/</loc>
-    <lastmod>2021-10-02T12:07:55+02:00</lastmod>
-  </url><url>
-    <loc>https://tech.hanke.se/</loc>
     <lastmod>2021-10-02T12:07:55+02:00</lastmod>
   </url><url>
     <loc>https://tech.hanke.se/categories/</loc>

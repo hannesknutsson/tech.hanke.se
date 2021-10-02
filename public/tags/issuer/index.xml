@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>issuer on tech.hanke.se</title>
+    <link>https://tech.hanke.se/tags/issuer/</link>
+    <description>Recent content in issuer on tech.hanke.se</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Oct 2021 13:01:49 +0200</lastBuildDate><atom:link href="https://tech.hanke.se/tags/issuer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issuer Hell</title>
+      <link>https://tech.hanke.se/posts/issuer-hell/</link>
+      <pubDate>Sat, 02 Oct 2021 13:01:49 +0200</pubDate>
+      
+      <guid>https://tech.hanke.se/posts/issuer-hell/</guid>
+      <description>Self referencing meta post This whole post is about setting up the infrastructure around this site.
+While doing so I was wrestling the certificate issuing process for quite some time. But to arrive at the problem, and eventually the solution, we have to go back a bit.
+The building blocks Before you can serve a site correctly in Kubernetes there are a set of resources that have to be set up correctly.</description>
+    </item>
+    
+  </channel>
+</rss>

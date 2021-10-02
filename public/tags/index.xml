@@ -6,7 +6,43 @@
     <description>Recent content in Tags on tech.hanke.se</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Oct 2021 12:07:55 +0200</lastBuildDate><atom:link href="https://tech.hanke.se/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Oct 2021 13:01:49 +0200</lastBuildDate><atom:link href="https://tech.hanke.se/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>certificate</title>
+      <link>https://tech.hanke.se/tags/certificate/</link>
+      <pubDate>Sat, 02 Oct 2021 13:01:49 +0200</pubDate>
+      
+      <guid>https://tech.hanke.se/tags/certificate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>issuer</title>
+      <link>https://tech.hanke.se/tags/issuer/</link>
+      <pubDate>Sat, 02 Oct 2021 13:01:49 +0200</pubDate>
+      
+      <guid>https://tech.hanke.se/tags/issuer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://tech.hanke.se/tags/kubernetes/</link>
+      <pubDate>Sat, 02 Oct 2021 13:01:49 +0200</pubDate>
+      
+      <guid>https://tech.hanke.se/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>letsencrypt</title>
+      <link>https://tech.hanke.se/tags/letsencrypt/</link>
+      <pubDate>Sat, 02 Oct 2021 13:01:49 +0200</pubDate>
+      
+      <guid>https://tech.hanke.se/tags/letsencrypt/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>non-technical</title>
       <link>https://tech.hanke.se/tags/non-technical/</link>
