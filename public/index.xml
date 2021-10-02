@@ -6,7 +6,16 @@
     <description>Recent content on tech.hanke.se</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Oct 2021 12:07:55 +0200</lastBuildDate><atom:link href="https://tech.hanke.se/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Oct 2021 12:35:44 +0200</lastBuildDate><atom:link href="https://tech.hanke.se/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://tech.hanke.se/posts/test/</link>
+      <pubDate>Sat, 02 Oct 2021 12:35:44 +0200</pubDate>
+      
+      <guid>https://tech.hanke.se/posts/test/</guid>
+      <description>Test haha test lmao</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://tech.hanke.se/posts/hello-world/</link>
