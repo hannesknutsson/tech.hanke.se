@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on tech.hanke.se</title>
+    <link>https://tech.hanke.se/tags/</link>
+    <description>Recent content in Tags on tech.hanke.se</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Oct 2021 23:43:54 +0200</lastBuildDate><atom:link href="https://tech.hanke.se/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world</title>
+      <link>https://tech.hanke.se/tags/hello-world/</link>
+      <pubDate>Fri, 01 Oct 2021 23:43:54 +0200</pubDate>
+      
+      <guid>https://tech.hanke.se/tags/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://tech.hanke.se/tags/html/</link>
+      <pubDate>Fri, 01 Oct 2021 23:43:54 +0200</pubDate>
+      
+      <guid>https://tech.hanke.se/tags/html/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

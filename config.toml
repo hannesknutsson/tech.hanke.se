@@ -1,0 +1,4 @@
+baseURL = 'https://tech.hanke.se/'
+languageCode = 'en-us'
+title = 'tech.hanke.se'
+theme = "Base16"
