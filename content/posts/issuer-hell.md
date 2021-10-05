@@ -43,7 +43,7 @@ Using [Helm](https://helm.sh/) charts in [ArgoCD](https://argoproj.github.io/cd)
 
 I set up a simple static nginx web server with some html files in with the goal to access it over https with valid letsencrypt signed certificates. After some fiddling I managed to get it working by referencing the issuer object in the ingress annotations. I got this test app working relatively quickly and my self esteem was high. Everything worked.
 
-## Getting cokcy
+## Getting cocky
 
 After my great success, I wanted to get as many services going as soon as possible. Life was good. I set up some more static sites and the [Minecraft](https://mcmap.hanke.se/?worldname=world&mapname=surface-SW&zoom=3&x=195&y=64&z=1296) server. Everything was still working great!
 
